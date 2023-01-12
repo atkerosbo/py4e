@@ -1,0 +1,14 @@
+Ime,SUM of Prisutnost,SUM of Odigrano,SUM of Pobeda,Calculated Field 2,,,Datum,Mesec,Ime,Prisutnost,Pobeda,Odigrano
+Aleksandar,1,4,2,50%,,,09.01.2023,Januar,Dule,1,1,4
+Atila,1,4,3,75%,,,09.01.2023,Januar,Aleksandar,1,2,4
+Bane,1,4,4,100%,,,09.01.2023,Januar,Šuput,1,1,4
+Cone,1,4,2,50%,,,09.01.2023,Januar,Cone,1,2,4
+Dalibor,1,4,4,100%,,,09.01.2023,Januar,Leskov,1,1,4
+Dule,1,4,1,25%,,,09.01.2023,Januar,Zlatko,1,2,4
+Leskov,1,4,1,25%,,,09.01.2023,Januar,Nemanja,1,3,4
+Miroslav,1,4,1,25%,,,09.01.2023,Januar,Štef,1,3,4
+Nemanja,1,4,3,75%,,,09.01.2023,Januar,Atila,1,3,4
+Štef,1,4,3,75%,,,09.01.2023,Januar,Vojislav,1,4,4
+Šuput,1,4,1,25%,,,09.01.2023,Januar,Bane,1,4,4
+Vojislav,1,4,4,100%,,,09.01.2023,Januar,Dalibor,1,4,4
+Zlatko,1,4,2,50%,,,09.01.2023,Januar,Miroslav,1,1,4
